@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+__pycache__/
+*.pdf
+*.doc
+*.epub
+*.m4a
+*.mp3
+*.txt
