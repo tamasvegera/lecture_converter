@@ -19,3 +19,6 @@ The processing time for a two-hour-long course is approximately five minutes, an
 - modify the "system" and "user" prompts in openai_handler.py
 - "system" content should be similar to: "You are a university professor teaching a psychology course"
 - "user" content should be similar to: "The following text is an AI transcript of a lecture recording. Make it easy to read while retaining all the information and facts. Write in an interesting style as if you were the speaker:"
+
+# License
+Free for personal and educational purposes.
