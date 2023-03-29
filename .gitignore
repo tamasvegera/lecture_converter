@@ -6,4 +6,6 @@ __pycache__/
 *.epub
 *.m4a
 *.mp3
-*.txt
+lecture/lecture_text.txt
+lecture/converted_text.txt
+
