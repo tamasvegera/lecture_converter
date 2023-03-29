@@ -8,4 +8,4 @@ __pycache__/
 *.mp3
 lecture/lecture_text.txt
 lecture/converted_text.txt
-
+test.py
